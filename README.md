@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Networking Projects:</h2>
 
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Global SASE Rollout - Hela Apparel Holdings PLC](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 
 <h2>📺 Popular YouTube Videos</h2>
