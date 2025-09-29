@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Networking Projects:</h2>
 
-- [Global SASE Rollout - Hela Apparel Holdings PLC](https://www.youtube.com/watch?v=uHy3oM7NnoU](https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/GunarathnaNCharitha/Global-SASE-Rollout---Hela-Apparel-Holdings-PLC/edit/main/README.md))
+- [Global SASE Rollout - Hela Apparel Holdings PLC](https://github.com/GunarathnaNCharitha/Global-SASE-Rollout---Hela-Apparel-Holdings-PLC/edit/main/README.md)
 
 
 <h2>📺 Popular YouTube Videos</h2>
