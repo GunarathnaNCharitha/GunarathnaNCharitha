@@ -3,7 +3,15 @@
 <h2>👨‍💻 Networking Projects:</h2>
 
 - [Global SASE Rollout - Hela Apparel Holdings PLC](https://github.com/GunarathnaNCharitha/Global-SASE-Rollout---Hela-Apparel-Holdings-PLC/edit/main/README.md)
-
+- [Strengthening Global Network Security - JAT Holdings PLC]()
+- [HNB Assurance PLC]()
+- [Ceylinco Life Insurance Ltd]()
+- [SLIIT Northern UNI – Jaffna]()
+- [LCB Finance PLC]()
+- [ICBT Campus (Multiple Locations)]()
+- [Bally’s Casino – Colombo]()
+- [CBL Group (Ceylon Biscuits Ltd)]()
+- [CBL Group (Ceylon Biscuits Ltd)]()
 
 <h2> 🤳 Connect with me:</h2>
 
