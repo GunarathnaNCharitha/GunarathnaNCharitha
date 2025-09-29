@@ -11,7 +11,7 @@
 - [ICBT Campus (Multiple Locations)]()
 - [Bally’s Casino – Colombo]()
 - [CBL Group (Ceylon Biscuits Ltd)]()
-- [CBL Group (Ceylon Biscuits Ltd)]()
+- [LTL Transformers (Pvt) Ltd]()
 
 <h2> 🤳 Connect with me:</h2>
 
