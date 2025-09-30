@@ -1,4 +1,4 @@
-<h1>Hi, I'm Neran C </h1>
+<h1>Hi, I'm Neran </h1>
 
 <h2>👨‍💻 Networking Projects:</h2>
 
