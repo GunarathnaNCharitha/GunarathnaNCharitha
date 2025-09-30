@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Networking Projects:</h2>
 
-- [Global SASE Rollout - Hela Apparel Holdings PLC](https://github.com/GunarathnaNCharitha/Global-SASE-Rollout---Hela-Apparel-Holdings-PLC/edit/main/README.md)
+- [Global SASE Rollout - Hela Apparel Holdings PLC](https://github.com/GunarathnaNCharitha/Global-SASE-Rollout-Hela-Apparel-Holdings-PLC/blob/main/README.md)
 - [Strengthening Global Network Security - JAT Holdings PLC](https://github.com/GunarathnaNCharitha/Strengthening-Global-Network-Security---JAT-Holdings-PLC/blob/main/README.md)
 - [HNB Assurance PLC](https://github.com/GunarathnaNCharitha/Redesign-of-HNB-Assurance-s-Enterprise-Network)
 - [Ceylinco Life Insurance Ltd](https://github.com/GunarathnaNCharitha/Redesign-of-Security-and-LAN-Infrastructure-for-Ceylinco-Life-Insurance-Ltd/edit/main/README.md)
