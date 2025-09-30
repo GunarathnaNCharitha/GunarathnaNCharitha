@@ -6,7 +6,7 @@
 - [Strengthening Global Network Security - JAT Holdings PLC](https://github.com/GunarathnaNCharitha/Strengthening-Global-Network-Security---JAT-Holdings-PLC/blob/main/README.md)
 - [HNB Assurance PLC](https://github.com/GunarathnaNCharitha/Redesign-of-HNB-Assurance-s-Enterprise-Network)
 - [Ceylinco Life Insurance Ltd](https://github.com/GunarathnaNCharitha/Redesign-of-Security-and-LAN-Infrastructure-for-Ceylinco-Life-Insurance-Ltd/edit/main/README.md)
-- [SLIIT Northern UNI – Jaffna]()
+- [SLIIT Northern UNI – Jaffna](https://github.com/GunarathnaNCharitha/SLIIT-Northern-Uni-Campus-Network/blob/main/README.md)
 - [LCB Finance PLC]()
 - [ICBT Campus (Multiple Locations)]()
 - [Bally’s Casino – Colombo]()
