@@ -8,10 +8,10 @@
 - [Ceylinco Life Insurance Ltd](https://github.com/GunarathnaNCharitha/Redesign-of-Security-and-LAN-Infrastructure-for-Ceylinco-Life-Insurance-Ltd/edit/main/README.md)
 - [SLIIT Northern UNI – Jaffna](https://github.com/GunarathnaNCharitha/SLIIT-Northern-Uni-Campus-Network/blob/main/README.md)
 - [LCB Finance PLC](https://github.com/GunarathnaNCharitha/LCB-Finance-SDWAN-Deployment/blob/main/README.md)
-- [ICBT Campus (Multiple Locations)]()
-- [Bally’s Casino – Colombo]()
-- [CBL Group (Ceylon Biscuits Ltd)]()
-- [LTL Transformers (Pvt) Ltd]()
+- [ICBT Campus (Multiple Locations)](https://github.com/GunarathnaNCharitha/ICBT-Campus-SDWAN-Deployment/blob/main/README.md)
+- [Bally’s Casino – Colombo](https://github.com/GunarathnaNCharitha/Ballys-Casino-Network-Security/blob/main/README.md)
+- [CBL Group (Ceylon Biscuits Ltd)](https://github.com/GunarathnaNCharitha/CBL-Group-FortiGate-AZURE-Integration-Manage-Firewalls/blob/main/README.md)
+- [LTL Transformers (Pvt) Ltd](https://github.com/GunarathnaNCharitha/Network-Transformation-SD-WAN-Deployment-LTL-Transformers-Pvt-Ltd-/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
