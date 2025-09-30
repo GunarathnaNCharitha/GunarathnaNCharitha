@@ -5,7 +5,7 @@
 - [Global SASE Rollout - Hela Apparel Holdings PLC](https://github.com/Neranc/Global-SASE-Rollout-Hela-Apparel-Holdings-PLC)
 - [Strengthening Global Network Security - JAT Holdings PLC](https://github.com/Neranc/Strengthening-Global-Network-Security---JAT-Holdings-PLC/blob/main/README.md)
 - [HNB Assurance PLC](https://github.com/Neranc/Redesign-of-HNB-Assurance-s-Enterprise-Network)
-- [Ceylinco Life Insurance Ltd](https://github.com/Neranc/Redesign-of-Security-and-LAN-Infrastructure-for-Ceylinco-Life-Insurance-Ltd/edit/main/README.md)
+- [Ceylinco Life Insurance Ltd](https://github.com/Neranc/Redesign-of-Security-and-LAN-Infrastructure-for-Ceylinco-Life-Insurance-Ltd/blob/main/README.md)
 - [SLIIT Northern UNI – Jaffna](https://github.com/Neranc/SLIIT-Northern-Uni-Campus-Network/blob/main/README.md)
 - [LCB Finance PLC](https://github.com/Neranc/LCB-Finance-SDWAN-Deployment/blob/main/README.md)
 - [ICBT Campus (Multiple Locations)](https://github.com/Neranc/ICBT-Campus-SDWAN-Deployment/blob/main/README.md)
