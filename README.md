@@ -16,6 +16,7 @@
 - [Bally’s Casino – Colombo (Gaming Sector)](https://github.com/NeranjanCharitha/Ballys-Casino-Network-Security/blob/main/README.md)
 - [CBL Group (Ceylon Biscuits Ltd) ( Manufacturing Sector)](https://github.com/NeranjanCharitha/CBL-Group-FortiGate-AZURE-Integration-Manage-Firewalls/blob/main/README.md)
 - [LTL Transformers (Pvt) Ltd (Power Sector)](https://github.com/NeranjanCharitha/Network-Transformation-SD-WAN-Deployment-LTL-Transformers-Pvt-Ltd-/blob/main/README.md)
+- [Digital400 (Pvt) Ltd (Technology Sector)](https://github.com/NeranjanCharitha/Digital400/blob/main/README.md)
 
 
 <!--
