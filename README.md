@@ -2,13 +2,14 @@
 
 ## Contact
 
-<a href="tel:+61421148490">
-  <img src="https://img.shields.io/badge/Phone-%2B61%20421%20148%20490-blue" width="250">
-</a>
-
-<a href="mailto:nerancharitha@gmail.com">
-  <img src="https://img.shields.io/badge/Email-nerancharitha%40gmail.com-red" width="300">
-</a>
+<p>
+  <a href="tel:+61421148490">
+    <img src="https://img.shields.io/badge/Phone-%2B61%20421%20148%20490-blue" width="220">
+  </a>
+  <a href="mailto:nerancharitha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nerancharitha%40gmail.com-red" width="220">
+  </a>
+</p>
 
 
 <h2>Networking Projects:</h2>
