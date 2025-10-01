@@ -4,7 +4,7 @@
 [![Phone](https://img.shields.io/badge/Phone-%2B61%20421%20148%20490-blue)](tel:+61421148490)
 [![Email](https://img.shields.io/badge/Email-nerancharitha%40gmail.com-red)](mailto:nerancharitha@gmail.com)
 
-<h2>👨‍💻 Networking Projects:</h2>
+<h2>Networking Projects:</h2>
 
 - [Global SASE Rollout - Hela Apparel Holdings PLC ( Apparel Sector)](https://github.com/NeranjanCharitha/Global-SASE-Rollout-Hela-Apparel-Holdings-PLC)
 - [Strengthening Global Network Security - JAT Holdings PLC ( Manufacturing Sector)](https://github.com/NeranjanCharitha/Strengthening-Global-Network-Security---JAT-Holdings-PLC/blob/main/README.md)
