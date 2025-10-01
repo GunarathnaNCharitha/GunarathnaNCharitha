@@ -6,7 +6,7 @@
 
 <h2>Networking Projects:</h2>
 
-- [Global SASE Rollout - Hela Apparel Holdings PLC ( Apparel Sector)](https://github.com/NeranjanCharitha/Global-SASE-Rollout-Hela-Apparel-Holdings-PLC)
+- [Global SASE Rollout - Hela Apparel Holdings PLC  || (Apparel Sector)](https://github.com/NeranjanCharitha/Global-SASE-Rollout-Hela-Apparel-Holdings-PLC)
 - [Strengthening Global Network Security - JAT Holdings PLC ( Manufacturing Sector)](https://github.com/NeranjanCharitha/Strengthening-Global-Network-Security---JAT-Holdings-PLC/blob/main/README.md)
 - [HNB Assurance PLC ( Finance Sector)](https://github.com/NeranjanCharitha/Redesign-of-HNB-Assurance-s-Enterprise-Network)
 - [Ceylinco Life Insurance Ltd (Finance Sector)](https://github.com/NeranjanCharitha/Redesign-of-Security-and-LAN-Infrastructure-for-Ceylinco-Life-Insurance-Ltd/blob/main/README.md)
