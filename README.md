@@ -1,5 +1,9 @@
 <h1>Hello, I'm Neran (Neranjan Charitha) </h1>
 
+## Contact
+[![Phone](https://img.shields.io/badge/Phone-%2B61%20421%20148%20490-blue)](tel:+61421148490)
+[![Email](https://img.shields.io/badge/Email-nerancharitha%40gmail.com-red)](mailto:nerancharitha@gmail.com)
+
 <h2>👨‍💻 Networking Projects:</h2>
 
 - [Global SASE Rollout - Hela Apparel Holdings PLC ( Apparel Sector)](https://github.com/NeranjanCharitha/Global-SASE-Rollout-Hela-Apparel-Holdings-PLC)
